@@ -228,14 +228,14 @@
       "Nom du Prestataire": "DR FARAH HUSSEIN",
       "Adresse": "N°3 ETG 1 RUE 61 GPE P OULFA CASABLANA MAROC",
       "Téléphone": "05.22.65.89.69",
-      "Spécialité": "Gynécologue-obstétricien"
+      "Spécialité": "Gynécologie Obstétrique"
     },
     {
       "Ville": "CASABLANCA",
       "Nom du Prestataire": "DR ADNANE TBATOU",
       "Adresse": "  RESIDENCE MAJID I APT 60 ETAGE 1 BOULEVARD MOHAMED 6  ",
       "Téléphone": "05 22 82 18 87",
-      "Spécialité": "Gynécologue-obstétricien"
+      "Spécialité": "Gynécologie Obstétrique"
     },
     {
       "Ville": "CASABLANCA",
@@ -480,21 +480,21 @@
       "Nom du Prestataire": "DR NEZHA ERRAMI",
       "Adresse": "1 Rue Jean Jacques Rousseau, Angle 110 Hassan 1er",
       "Téléphone": "05 22 26 26 69",
-      "Spécialité": "Ophtalmologie "
+      "Spécialité": "Ophtalmologie"
     },
     {
       "Ville": "CASABLANCA",
       "Nom du Prestataire": "DR LAAROUSSI LAILA",
       "Adresse": "119 BOULEVARD ABDELMOUMEN, 1 ER ETAGE N 7 CASABLANCA",
       "Téléphone": "05 22 47 16 78",
-      "Spécialité": "Ophtalmologie "
+      "Spécialité": "Ophtalmologie"
     },
     {
       "Ville": "CASABLANCA",
       "Nom du Prestataire": "Eye center sidi maarouf (Dr EL OUALI LOUBNA) ",
       "Adresse": "Bd aboubakr El Kadiri Res Ahfad immD 1er etage apt 5, sidi maarouf",
       "Téléphone": "05 20 40 59 59",
-      "Spécialité": "Ophtalmologie "
+      "Spécialité": "Ophtalmologie"
     },
     {
       "Ville": "CASABLANCA",
@@ -907,14 +907,14 @@
       "Nom du Prestataire": "Clinique International  De Marrakech",
       "Adresse": "RTE DE L'AEROPORT BAB IGHLI 40000 MARRAKESH",
       "Téléphone": "05 24 44 40 42",
-      "Spécialité": "Clinique "
+      "Spécialité": "Clinique"
     },
     {
       "Ville": "MARRAKECH",
       "Nom du Prestataire": "Clinique dentaire BASMA",
       "Adresse": "N 57 RUE MAURITANIA BP 2609 GUELIZ",
       "Téléphone": "05 24 49 81 08",
-      "Spécialité": "Clinique "
+      "Spécialité": "Clinique"
     },
     {
       "Ville": "MARRAKECH",
@@ -1138,14 +1138,14 @@
       "Nom du Prestataire": "DR LAHSINI SOUAD",
       "Adresse": "638 Bd Abdelkrim Khattabi Db Chabab C",
       "Téléphone": "05 23 32 66 66",
-      "Spécialité": "Ophtalmologie "
+      "Spécialité": "Ophtalmologie"
     },
     {
       "Ville": "MOHAMMEDIA",
       "Nom du Prestataire": "DR BENSEMLALI AMINE",
       "Adresse": "Boulevard Abderrahmane Serghini",
       "Téléphone": "05 23 31 12 12",
-      "Spécialité": "Ophtalmologie "
+      "Spécialité": "Ophtalmologie"
     },
     {
       "Ville": "MOHAMMEDIA",
@@ -1237,7 +1237,7 @@
       "Nom du Prestataire": "CLINIQUE DAR ESSALAM RABAT",
       "Adresse": "53 Rue Jaafar Ibn Abitalib, Rabat",
       "Téléphone": "05 37 63 52 42",
-      "Spécialité": "Clinique "
+      "Spécialité": "Clinique"
     },
     {
       "Ville": "RABAT",
@@ -1335,7 +1335,7 @@
       "Nom du Prestataire": "DR YASSER RIFAY",
       "Adresse": "Résidence Badr, Imm14 , Avenue Abtal",
       "Téléphone": "05 37 68 68 54",
-      "Spécialité": "Ophtalmologie "
+      "Spécialité": "Ophtalmologie"
     },
     {
       "Ville": "RABAT",
@@ -1454,7 +1454,7 @@
       "Nom du Prestataire": "CLINIQUE INTERNATIONALE DE MOHAMMEDIA",
       "Adresse": "BOULEVARD MOHAMMED VI MOHAMMEDIA MAROC",
       "Téléphone": "05 23 28 91 91",
-      "Spécialité": "CLINIQUE "
+      "Spécialité": "Clinique"
     },
     {
       "Ville": "CASABLANCA",
